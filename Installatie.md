@@ -14,7 +14,7 @@ manager (npm, vandaar dat de commando's die je in de terminal gebruikt allemaal 
 
 4. Plak het volgende commando in de terminal en druk Enter op je toetsenbord: `npm install --no-save`.
 
-5. Plak het volgende commando in de terminal en druk Enter op je toetsenbord: `npm update --no-save`
+5. Plak het volgende commando in de terminal en druk Enter op je toetsenbord: `npm update --no-save`.
 
 6. Nu gaan we playwright installeren. Tijdens het installatieproces krijg je een paar vragen:
 
@@ -26,4 +26,4 @@ manager (npm, vandaar dat de commando's die je in de terminal gebruikt allemaal 
    -  Onderstaand het commando voor de terminal:
    -  `npm init playwright@latest`
 
-7. Je bent er nu bijna. Alleen dien je nog naar het linkermenu van vscode te gaan en hier de playwright extensie te installeren. Die geeft je wat extra mogelijkheden.
+7. Je bent er nu bijna. Alleen dien je nog naar het linkermenu van vscode te gaan en hier de Playwright Test extensie te installeren. Die geeft je wat extra mogelijkheden.
